@@ -1,0 +1,5 @@
+[console_scripts]
+calculador = sensor.calculador:main
+impressao = sensor.impressao:main
+publicador = sensor.publicador:main
+

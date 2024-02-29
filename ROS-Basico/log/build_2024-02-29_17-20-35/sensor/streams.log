@@ -1,0 +1,30 @@
+[0.405s] Invoking command in '/root/entregavel/build/sensor': PYTHONPATH=/root/entregavel/build/sensor/prefix_override:/root/entregavel/install/sensor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/entregavel/build/sensor/build --no-deps install_data
+[0.570s] running develop
+[0.570s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.570s]   warnings.warn(
+[0.571s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.571s]   warnings.warn(
+[0.658s] running egg_info
+[0.658s] creating sensor.egg-info
+[0.659s] writing sensor.egg-info/PKG-INFO
+[0.661s] writing dependency_links to sensor.egg-info/dependency_links.txt
+[0.661s] writing entry points to sensor.egg-info/entry_points.txt
+[0.661s] writing requirements to sensor.egg-info/requires.txt
+[0.662s] writing top-level names to sensor.egg-info/top_level.txt
+[0.662s] writing manifest file 'sensor.egg-info/SOURCES.txt'
+[0.664s] reading manifest file 'sensor.egg-info/SOURCES.txt'
+[0.665s] writing manifest file 'sensor.egg-info/SOURCES.txt'
+[0.666s] running build_ext
+[0.666s] Creating /root/entregavel/install/sensor/lib/python3.10/site-packages/sensor.egg-link (link to .)
+[0.668s] Installing calculador script to /root/entregavel/install/sensor/lib/sensor
+[0.669s] Installing impressao script to /root/entregavel/install/sensor/lib/sensor
+[0.669s] Installing publicador script to /root/entregavel/install/sensor/lib/sensor
+[0.669s] 
+[0.670s] Installed /root/entregavel/build/sensor
+[0.670s] running install_data
+[0.670s] creating /root/entregavel/install/sensor/share/ament_index
+[0.671s] creating /root/entregavel/install/sensor/share/ament_index/resource_index
+[0.672s] creating /root/entregavel/install/sensor/share/ament_index/resource_index/packages
+[0.673s] copying resource/sensor -> /root/entregavel/install/sensor/share/ament_index/resource_index/packages
+[0.673s] copying package.xml -> /root/entregavel/install/sensor/share/sensor
+[0.697s] Invoked command in '/root/entregavel/build/sensor' returned '0': PYTHONPATH=/root/entregavel/build/sensor/prefix_override:/root/entregavel/install/sensor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /root/entregavel/build/sensor/build --no-deps install_data
