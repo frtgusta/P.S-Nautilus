@@ -1,0 +1,3 @@
+parametros:
+  raio_orbita_planeta: 10
+  nome_planeta: Terra

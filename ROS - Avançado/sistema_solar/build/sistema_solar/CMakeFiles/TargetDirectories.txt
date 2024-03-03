@@ -1,0 +1,9 @@
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/uninstall.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/sistema_solar_uninstall.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/test.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/edit_cache.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/rebuild_cache.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/list_install_components.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/install.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/install/local.dir
+/root/sistema_solar_ws/src/sistema_solar/build/sistema_solar/CMakeFiles/install/strip.dir

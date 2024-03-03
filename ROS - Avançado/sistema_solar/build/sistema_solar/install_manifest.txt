@@ -1,0 +1,15 @@
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/ament_index/resource_index/package_run_dependencies/sistema_solar
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/ament_index/resource_index/parent_prefix_path/sistema_solar
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/environment/ament_prefix_path.sh
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/environment/ament_prefix_path.dsv
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/environment/path.sh
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/environment/path.dsv
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/local_setup.bash
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/local_setup.sh
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/local_setup.zsh
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/local_setup.dsv
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/package.dsv
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/ament_index/resource_index/packages/sistema_solar
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/cmake/sistema_solarConfig.cmake
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/cmake/sistema_solarConfig-version.cmake
+/root/sistema_solar_ws/src/sistema_solar/install/sistema_solar/share/sistema_solar/package.xml

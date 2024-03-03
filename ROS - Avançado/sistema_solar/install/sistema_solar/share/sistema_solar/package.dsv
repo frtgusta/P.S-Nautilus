@@ -1,0 +1,8 @@
+source;share/sistema_solar/hook/cmake_prefix_path.ps1
+source;share/sistema_solar/hook/cmake_prefix_path.dsv
+source;share/sistema_solar/hook/cmake_prefix_path.sh
+source;share/sistema_solar/local_setup.bash
+source;share/sistema_solar/local_setup.dsv
+source;share/sistema_solar/local_setup.ps1
+source;share/sistema_solar/local_setup.sh
+source;share/sistema_solar/local_setup.zsh
